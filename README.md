@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aliy_o4_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waxacoder" height="30" width="40" /></a>
-<a href="https://dev.to/junior_aliy/" target="blank"><img align='center' width="40" height="30" src="https://img.icons8.com/windows/32/dev.png" alt="dev"/></a>
+<a href="https://dev.to/junior_aliy/" target="blank"><img align='center' width="40" height="35" src="https://img.icons8.com/windows/32/dev.png" alt="dev"/></a>
   
 </p>
 
