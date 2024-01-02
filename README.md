@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aliy</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Aliy</h1>
+<h3 align="center">I'm a react frontend developer from Uzbekistan</h3>
 
 <a href="#"><img src="./svgfile.svg"></a>
 
@@ -7,8 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aliy-yuldashev" target="blank"><img align='center' width="40" height="35" src="https://img.icons8.com/windows/32/linkedin.png" alt="dev"/></a>
 <a href="https://instagram.com/aliy_o4_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waxacoder" height="30" width="40" /></a>
-<a href="https://dev.to/junior_aliy/" target="blank"><img align='center' width="40" height="35" src="https://img.icons8.com/windows/32/dev.png" alt="dev"/></a>
+<a href="https://linkedin.com/in/aliy-yuldashev" target="blank"><img align='center' width="40" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-shadow-tal-revivo.png" alt="dev"/></a>
+
   
 </p>
 
